@@ -1,4 +1,3 @@
-# Submission of QOSF Mentorship Screening Task
 ## Task-4: Find the lowest eigenvalue of the given matrix
 - First I tried to find out eigenvalues and the one which is lowest among them for Hamiltonian classically
 - I first tried to simulate VQE without noise 
